@@ -1,0 +1,37 @@
+{
+  "name": "Zuwaj",
+  "short_name": "Zuwaj",
+  "start_url": "https://www.zuwaj.com/",
+  "display": "standalone",
+  "background_color": "#FF00B7",
+  "theme_color": "#2B0C93",
+  "description": "Make God your best friend who always gives the greatest solution in all your life problems with Zuwaj. Be confident and patient, let's go with Zuwaj. Zuwaj.com also has articles on the topics of marriage, parenting and health.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-I6VBlEeM0vc/Xow15oWMDvI/AAAAAAAAI0Y/tRhWviR2gak38tPU79wLWletY2wP52__QCLcBGAsYHQ/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
